@@ -1,4 +1,4 @@
-# Transformer-Based Multi-Modal Fusion for Material Recognition in Construction Environments
+# Dataset and Model for Advancing Robust Material Recognition in Construction Environments
 
 ## Usage
 This section outlines the recommended file structure and basic usage instructions for the project.
